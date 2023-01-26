@@ -1,0 +1,18 @@
+# ReactTopics
+
+React Concepts
+1. What is react?
+2. Differentiate between functional and class components. What do you prefer to use and in which situation?
+3. What is State and Props in react?
+4. What is the difference between State and Props? How do you decide what is controlled by state and what is controlled by pros?
+5. What is Virtual DOM and how it works?
+6. What is the importance of Key in the map?
+7. What are the life- cycle methods in react?
+8. Which life- cycle method will you use when calling an API?
+9. How do we access the parent component in a child and vice versa. (in react)
+10. Have you used Context?
+11. How to connect react with backend?
+12. Why use Redux in react?
+13. Explain how to work with redux?
+14. What is the container pattern?
+15. What is middleware used for?
